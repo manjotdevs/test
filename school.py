@@ -20,4 +20,15 @@ if a == 1:
        print(f"file name {list_name}\n Students added are{student_list}")
        #print("file name",list_name,"\n Students added are",student_list)
          
+'''
+        show all list
+        
+        list1= [ram,manjot,raju,sham]
+        list2= [a,b,c]
+        list3= [1,2,3,4]
+
+        select list
+        edit list and show new list
+'''
+
     
